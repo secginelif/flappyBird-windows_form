@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\bin\Debug\Flappy_Birds_Windows_Form.exe.config
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\bin\Debug\Flappy_Birds_Windows_Form.exe
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\bin\Debug\Flappy_Birds_Windows_Form.pdb
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.Form1.resources
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.Properties.Resources.resources
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.exe
+C:\Users\User\source\repos\Flappy_Birds_Windows_Form\Flappy_Birds_Windows_Form\obj\Debug\Flappy_Birds_Windows_Form.pdb
